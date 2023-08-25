@@ -4,7 +4,7 @@
 
 
 <p align="center">- 📫 How to reach me <a href="mailto:chzohaibtariq@hotmail.com" target="_blank">[chzohaibtariq@hotmail.com]</a></p>
-<p align="center">- 📄 Know about my experiences <a href="https://anaflous.com" target="_blank">[anaflous.com]</a></p>
+<p align="center">- 📄 Know about my experiences <a href="" target="_blank">[zohaib-tariq.com]</a></p>
 <p align="center">- ⚡ Fun fact Computer mouse speed is measured in "Mickeys."</p>
 
 
