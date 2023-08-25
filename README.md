@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zohaib Tariq</h1>
-<h3 align="center">A passionate Full Stack Software Engineer from Pakistan</h3>
+<h3 align="center">A passionate Sr. Full Stack Software Engineer from Pakistan</h3>
 
 
 
